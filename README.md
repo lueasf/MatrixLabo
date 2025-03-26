@@ -1,5 +1,8 @@
 # MatrixLabo
-Exploring Matlab in engineering and finance
+Exploring Matlab in engineering and finance.
+
+1) Mandelbrot Set
+2) Risk Optimization in Finance
 
 
 ## Mandelbrot Set
@@ -94,3 +97,4 @@ Zoom 2: Center=(0.435176852, 0.341773243), Width=0.000000025, Height=0.000000025
 ![Mandelbrot Set](Mandelbrot/fig3.jpg)
 ![Mandelbrot Set](Mandelbrot/fig5.png)
 ![Mandelbrot Set](Mandelbrot/fig4.png)
+
